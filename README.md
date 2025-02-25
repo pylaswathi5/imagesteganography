@@ -55,7 +55,7 @@ Ensure you have **Python 3.x** installed.
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/lalithanjaliaruna123/image-steganography.git
+git clone https://github.com/pylaswathi5/imagesteganography.git
 cd image-steganography
 ```
 
@@ -112,6 +112,6 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests**.
 ## **Author**  
 
 👤 **Your Name**  
-🔗 GitHub: https://github.com/lalithanjaliaruna123 (lalithanjaliaruna123)
+🔗 GitHub: https://github.com/pylaswathi5 (pylaswathi5)
 
 ---
